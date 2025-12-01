@@ -8,9 +8,6 @@
   <!-- 🔥 Devil Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=I%20Am%20Devil&fontAlign=50&fontAlignY=40&color=FF0000&fontColor=FFFFFF&animation=twinkling" />
 
-  <br>
-
-
   <br><br>
 
   <!-- ⚙️ Skills -->
@@ -49,13 +46,25 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" height="40" />
   </p>
 
-  <br>
-
-  <br>
+  <br><br>
 
   <!-- 🩸 Ending Typing Line -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=20&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=If+you+read+till+here...;Remember+the+name+%E2%80%94+Devil." />
   </a>
+
+  <br><br>
+
+  <!-- ⭐ Discord + Website -->
+  <h3>🌐 Connect With Me</h3>
+
+  <p>
+    <a href="https://discord.com/invite/NYkcHgjnx5">
+      <img src="https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://www.devilbytes.com/">
+      <img src="https://img.shields.io/badge/Website-DevilBytes.com-FF0000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+  </p>
 
 </div>
